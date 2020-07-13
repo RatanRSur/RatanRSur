@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! You can call me Rai.
+
+- 🚑 I’m looking to help in whatever way, big or small. It's so rewarding to use my skills to help people so you'd really be doing me a favor.
+- 💬 Ask me about Ethereum and blockchain.
 
 <!--
 **RatanRSur/RatanRSur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
